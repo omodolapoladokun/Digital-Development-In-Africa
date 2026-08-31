@@ -22,6 +22,7 @@ The project covers the complete analytics workflow, from narrowing a very broad 
 
 ## Dashboard Preview
 
+<img width="632" height="368" alt="Digital Development In Africa Dashboard " src="https://github.com/user-attachments/assets/bce5665e-956f-4152-a7c0-4b5c3078403a" />
 
 
 ---
