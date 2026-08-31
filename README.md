@@ -608,4 +608,4 @@ The dashboard provides a focused view of these differences and can support furth
 Data Analyst
 
 [LinkedIn](https://www.linkedin.com/in/omodolapoladokun)
-[GitHub](https://github.com/royalpriestcode)
+[GitHub](https://github.com/omodolapoladokun)
